@@ -22,7 +22,8 @@ public class LeetCodeProfileScraper {
             "elizavetaMenshikova", 0,
             "bahmytov23", 1,
             "Neroben", 12,
-            "gibkinyuriy", 1
+            "gibkinyuriy", 1,
+            "DsJava", 4
     );
 
 
